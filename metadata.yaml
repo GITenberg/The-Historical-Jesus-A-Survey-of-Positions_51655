@@ -1,0 +1,27 @@
+_repo: The-Historical-Jesus-A-Survey-of-Positions_51655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robertson, J. M. (John Mackinnon)
+    alias: Robertson, John Mackinnon
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '31403'
+    url: http://www.gutenberg.org/2009/agents/31403
+    wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
+description: ''
+gutenberg_issued: '2016-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Rationalistic interpretations'
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Historicity'
+- GITenberg
+title: 'The Historical Jesus: A Survey of Positions'
+url: http://www.gutenberg.org/ebooks/51655
