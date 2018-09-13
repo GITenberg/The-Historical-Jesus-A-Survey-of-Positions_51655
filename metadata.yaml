@@ -1,5 +1,8 @@
 _repo: The-Historical-Jesus-A-Survey-of-Positions_51655
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51655-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Robertson, J. M. (John Mackinnon)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31403
     wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51655#The-Historical-Jesus-A-Survey-of-Positions
 gutenberg_issued: '2016-04-04'
 gutenberg_type: Text
 identifiers:
